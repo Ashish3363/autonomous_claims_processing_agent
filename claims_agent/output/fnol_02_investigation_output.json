@@ -1,0 +1,28 @@
+{
+  "extractedFields": {
+    "policyNumber": "POL-55667788",
+    "policyholderName": null,
+    "effectiveDates": "2024-06-01 To: 2025-06-01",
+    "incidentDate": "2025-02-28",
+    "incidentTime": "23:45",
+    "incidentLocation": "Dock 4, Gotham Harbor",
+    "incidentDescription": "The car was found submerged. Several inconsistent statements from witnesses. It looks staged according to the police report.",
+    "claimant": "Michael Corleone",
+    "thirdParties": null,
+    "contactDetails": null,
+    "assetType": null,
+    "assetId": "LUX-555",
+    "estimatedDamage": null,
+    "claimType": null,
+    "attachments": null,
+    "initialEstimate": 48000.0
+  },
+  "missingFields": [
+    "policyholderName",
+    "estimatedDamage",
+    "claimType",
+    "assetType"
+  ],
+  "recommendedRoute": "Investigation",
+  "reasoning": "Flagged for investigation due to suspicious keywords in description: inconsistent, staged."
+}

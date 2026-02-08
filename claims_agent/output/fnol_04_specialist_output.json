@@ -1,0 +1,29 @@
+{
+  "extractedFields": {
+    "policyNumber": "POL-INJ-001",
+    "policyholderName": null,
+    "effectiveDates": null,
+    "incidentDate": "2025-08-10",
+    "incidentTime": null,
+    "incidentLocation": null,
+    "incidentDescription": null,
+    "claimant": "Robert Banner",
+    "thirdParties": null,
+    "contactDetails": null,
+    "assetType": null,
+    "assetId": null,
+    "estimatedDamage": null,
+    "claimType": "injury",
+    "attachments": null,
+    "initialEstimate": 15000.0
+  },
+  "missingFields": [
+    "policyholderName",
+    "effectiveDates",
+    "incidentDescription",
+    "estimatedDamage",
+    "assetType"
+  ],
+  "recommendedRoute": "SpecialistQueue",
+  "reasoning": "Routed to Specialist Queue because claim involves bodily injury."
+}

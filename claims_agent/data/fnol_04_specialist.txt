@@ -1,0 +1,20 @@
+CLAIM FORM
+
+Policy Number: POL-INJ-001
+Holder: Robert Banner
+Period: 2024-01-01 to 2028-01-01
+
+Incident:
+2025-08-10 at 10:00 AM.
+Highway 66.
+Driver lost control and hit a guardrail. Driver sustained whiplash and broken arm.
+
+Parties:
+Claimant: Robert Banner
+Contact: 555-HULK
+
+Asset: SUV
+Damage: $12000
+
+Claim Type: Injury
+Initial Est: $15000

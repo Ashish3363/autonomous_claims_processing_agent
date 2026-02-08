@@ -1,0 +1,30 @@
+{
+  "extractedFields": {
+    "policyNumber": null,
+    "policyholderName": null,
+    "effectiveDates": "2025-01-01 - 2026-01-01",
+    "incidentDate": "2025-07-04",
+    "incidentTime": null,
+    "incidentLocation": "Central Park",
+    "incidentDescription": null,
+    "claimant": null,
+    "thirdParties": null,
+    "contactDetails": null,
+    "assetType": null,
+    "assetId": null,
+    "estimatedDamage": 50000.0,
+    "claimType": null,
+    "attachments": null,
+    "initialEstimate": null
+  },
+  "missingFields": [
+    "policyNumber",
+    "policyholderName",
+    "incidentDescription",
+    "claimType",
+    "assetType",
+    "initialEstimate"
+  ],
+  "recommendedRoute": "ManualReview",
+  "reasoning": "Sent for Manual Review due to missing mandatory fields: policyNumber, policyholderName, incidentDescription, claimType, assetType, initialEstimate."
+}

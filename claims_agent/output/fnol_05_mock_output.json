@@ -1,0 +1,26 @@
+{
+  "extractedFields": {
+    "policyNumber": "POL-PDF-99",
+    "policyholderName": "Alice Walker",
+    "effectiveDates": "2024-01-01 to 2025-01-01",
+    "incidentDate": "2024-11-20",
+    "incidentTime": "08:15",
+    "incidentLocation": "Highway 101, CA",
+    "incidentDescription": "Collision with a deer. Front bumper and hood damaged. Financials Estimated Damage: $4500.00 Initial Estimate: $4800.00",
+    "claimant": null,
+    "thirdParties": null,
+    "contactDetails": null,
+    "assetType": null,
+    "assetId": null,
+    "estimatedDamage": 4500.0,
+    "claimType": null,
+    "attachments": null,
+    "initialEstimate": 4800.0
+  },
+  "missingFields": [
+    "claimType",
+    "assetType"
+  ],
+  "recommendedRoute": "ManualReview",
+  "reasoning": "Sent for Manual Review due to missing mandatory fields: claimType, assetType."
+}

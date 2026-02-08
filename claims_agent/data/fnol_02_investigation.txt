@@ -1,0 +1,25 @@
+INSURANCE CLAIM REPORT - FNOL
+
+POLICY DETAILS
+Policy #: POL-55667788
+Insured: Michael Corleone
+Valid From: 2024-06-01 To: 2025-06-01
+
+INCIDENT INFO
+Date of Incident: 2025-02-28
+Time: 23:45
+Place: Dock 4, Gotham Harbor
+Description: The car was found submerged. Several inconsistent statements from witnesses. It looks staged according to the police report.
+
+PARTIES
+Claimant: Michael Corleone
+Contact: 555-9999
+
+VEHICLE INFO
+Type: Luxury Sedan
+VIN: LUX-555
+Damage Est: $45000
+
+CLAIM META
+Type: theft
+Initial Est: $48000

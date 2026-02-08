@@ -1,0 +1,32 @@
+FIRST NOTICE OF LOSS
+
+Policy Information
+------------------
+Policy Number: POL-99887766
+Policyholder Name: Sarah Jenkins
+Effective Dates: 2025-01-01 to 2025-12-31
+
+Incident Details
+----------------
+Date: 2025-05-15
+Time: 14:30
+Location: 123 Maple St, Springfield, IL
+Description: I backed into a mailbox while leaving my driveway. Minor scratch on the rear bumper. No injuries.
+
+Involved Parties
+----------------
+Claimant: Sarah Jenkins
+Third Parties: None
+Contact Details: sarah.j@example.com, 555-0101
+
+Asset Details
+-------------
+Asset Type: Vehicle
+Asset ID: VIN-123456789ABC
+Estimated Damage: $850.00
+
+Additional Info
+---------------
+Claim Type: Property
+Initial Estimate: $900.00
+Attachments: bumper_scratch.jpg

@@ -1,0 +1,23 @@
+{
+  "extractedFields": {
+    "policyNumber": "POL-99887766",
+    "policyholderName": "Sarah Jenkins",
+    "effectiveDates": "2025-01-01 to 2025-12-31",
+    "incidentDate": "2025-05-15",
+    "incidentTime": "14:30",
+    "incidentLocation": "123 Maple St, Springfield, IL",
+    "incidentDescription": "I backed into a mailbox while leaving my driveway. Minor scratch on the rear bumper. No injuries.",
+    "claimant": "Sarah Jenkins",
+    "thirdParties": null,
+    "contactDetails": null,
+    "assetType": "Vehicle",
+    "assetId": "VIN-123456789ABC",
+    "estimatedDamage": 850.0,
+    "claimType": "property",
+    "attachments": null,
+    "initialEstimate": 900.0
+  },
+  "missingFields": [],
+  "recommendedRoute": "FastTrack",
+  "reasoning": "Approved for Fast Track. Estimated damage ($850.0) is under the $25000.0 limit and all mandatory fields are present."
+}

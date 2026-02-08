@@ -1,0 +1,4 @@
+pydantic
+reportlab
+pdfplumber
+pypdf
