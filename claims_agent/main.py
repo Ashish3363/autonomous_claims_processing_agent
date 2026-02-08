@@ -49,7 +49,10 @@ def process_fnol(file_path: str):
 
     # Optional: Save to file
     output_filename = os.path.splitext(os.path.basename(file_path))[0] + "_output.json"
-    output_dir = os.path.join(os.path.dirname(file_path), "..", "output")
+    
+    # Always save to logic-defined output directory (project_root/output)
+    project_root = os.path.dirname(os.path.abspath(__file__))
+    output_dir = os.path.join(project_root, "output")
     os.makedirs(output_dir, exist_ok=True)
     
     output_path = os.path.join(output_dir, output_filename)
